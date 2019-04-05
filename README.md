@@ -22,7 +22,7 @@ GAs can also be utilized while implementing machine learning applications for ta
 
 **Output:**
 
-![alt text](https://github.com/FarnamAdelkhani/geneticAlgorithms_GenerativeDesign/blob/master/genRuntime.png?raw=true "Hello, world! My name is, Farnam!")
+![alt text](https://github.com/FarnamAdelkhani/genetic/blob/offline+experiment/genRuntime.png?raw=true "Hello, world! My name is, Farnam!")
 
 ... we get lucky in the first example, only 74 Generations till reaching the target @ 34 seconds.
 
@@ -33,7 +33,7 @@ This exposes two weak points of the program:
 2. Pooly optimized algorithm - genetic algorithms are not known for their runtime but we could try and make improvements.
 
 
-![alt text](https://github.com/FarnamAdelkhani/geneticAlgorithms_GenerativeDesign/blob/master/genRuntime_slow.png?raw=true "User Input: It is better to be feared than loved, if you cannot be both.")
+![alt text](https://github.com/FarnamAdelkhani/genetic/blob/offline+experiment/genRuntime_slow.png?raw=true "User Input: It is better to be feared than loved, if you cannot be both.")
 
 Create a branch, then see if you can improve upon this program!
 
